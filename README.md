@@ -1,6 +1,6 @@
 Hi there! 👋
 
-👨‍🎓 Student | 💻 Java, HTML/CSS, JavaScript Enthusiast
+👨‍🎓 Student | 💻 Java, JavaScript,Html/CSS Swift Enthusiast
 
 🚀 Auf der Reise zur ständigen Weiterentwicklung und Wissensaneignung in der Welt der Programmierung.
 
